@@ -1,6 +1,6 @@
 {
     "name": "kotchill.db",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "Database with better-sqlite3",
     "main": "index.js",
     "dependencies": {
