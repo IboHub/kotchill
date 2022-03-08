@@ -1,0 +1,29 @@
+{
+    "name": "kotchill.db",
+    "version": "0.0.1",
+    "description": "Database with better-sqlite3",
+    "main": "index.js",
+    "dependencies": {
+        "better-sqlite3": "^7.1.1",
+        "lodash": "^4.17.20"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IboHub/kotchill.db.git"
+    },
+    "keywords": [
+        "database",
+        "storing",
+        "values",
+        "easy",
+        "quick",
+        "sqlite",
+        "sqlite3",
+        "db"
+    ],
+    "author": "IboHub",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/IboHub/kotchill.db/issues"
+    }
+}
